@@ -1,0 +1,23 @@
+{
+  "name": "websocket_usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^7.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThijsvanDam/websocket_usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThijsvanDam/websocket_usage/issues"
+  },
+  "homepage": "https://github.com/ThijsvanDam/websocket_usage#readme"
+}
